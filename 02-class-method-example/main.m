@@ -3,7 +3,7 @@
 
 @interface ClassMethodExample : RootObject {
 }
-- (void) example;
++ (void) test;
 @end
 
 @implementation ClassMethodExample 
